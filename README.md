@@ -198,13 +198,13 @@ Authorization: Bearer YOUR_JWT_TOKEN
 Frontend:
 
 ```
-https://your-vercel-url.vercel.app
+https://task-manager-alpha-six-54.vercel.app/
 ```
 
 Backend:
 
 ```
-https://your-render-url.onrender.com
+https://task-manager-backend-z8c1.onrender.com/
 ```
 
 ---
@@ -212,7 +212,7 @@ https://your-render-url.onrender.com
 ## 📁 GitHub Repository
 
 ```
-https://github.com/YOUR_USERNAME/task-manager
+https://github.com/bhadri-alt/task-manager
 ```
 
 ---
@@ -226,7 +226,7 @@ Computer Science Engineering Student
 Andhra University
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/bhadri-alt
 
 ---
 
