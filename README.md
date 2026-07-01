@@ -174,19 +174,22 @@ Authorization: Bearer YOUR_JWT_TOKEN
 
 ### Login Page
 
-(Add Screenshot Here)
+<img width="1907" height="868" alt="image" src="https://github.com/user-attachments/assets/cc20d4e0-c315-4640-a745-0af08a6cef06" />
+
 
 ---
 
 ### Register Page
 
-(Add Screenshot Here)
+<img width="1907" height="838" alt="image" src="https://github.com/user-attachments/assets/a4b24708-cc4b-40fe-823d-ea30d84637d8" />
+
 
 ---
 
 ### Dashboard
 
-(Add Screenshot Here)
+<img width="1900" height="896" alt="image" src="https://github.com/user-attachments/assets/6c6454b7-1497-430d-b755-b60678317250" />
+
 
 ---
 
